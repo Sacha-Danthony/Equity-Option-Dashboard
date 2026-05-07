@@ -30,13 +30,13 @@ limites via l'analyse de scénarios en temps réel.
 ## 📸 Aperçu
 
 ### Paramètres & Résultats
-![Dashboard](screenshots/parametres_resultats.png)
+![Dashboard](parametres_resultats.png)
 
 ### Payoff à maturité
-![Payoff](screenshots/payoff_maturite.png)
+![Payoff](payoff_maturite.png)
 
 ### Analyse de scénarios & Pitch client
-![Scénarios](screenshots/scenarios_pitch.png)
+![Scénarios](scenarios_pitch.png)
 
 ---
 
