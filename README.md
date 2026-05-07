@@ -30,7 +30,7 @@ limites via l'analyse de scénarios en temps réel.
 ## 📸 Aperçu
 
 ### Paramètres & Résultats
-![Dashboard](screenshots/parametres_resultats.png)
+![Dashboard](screenshots/paramètres_et_résultats.png)
 
 ### Payoff à maturité
 ![Payoff](screenshots/payoff_maturite.png)
