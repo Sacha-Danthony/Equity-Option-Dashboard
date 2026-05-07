@@ -101,5 +101,5 @@ streamlit run app.py
 
 ## 👤 Auteur
 
-**Sacha** — Étudiant M1 Finance, ESLSCA Paris  
+**Sacha** - Étudiant M1 Finance, ESLSCA Paris  
 *Projet réalisé dans le cadre d'une démarche d'apprentissage de la finance de marché*
